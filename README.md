@@ -4,8 +4,9 @@ Lab01 done.
 
 Lab02 started. Sor shar pay prr sayar.
 
-[![CI](https://github.com/hlumhtetaung/sem/actions/workflows/main.yml/badge.svg)](https://github.com/hlumhtetaung/sem/actions/workflows/main.yml)
+# Software Engineering Methods
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/hlumhtetaung/sem/blob/main/LICENSE)
-
-[![Releases](https://img.shields.io/github/release/hlumhtetaung/sem/all.svg?style=flat-square)](https://github.com/hlumhtetaung/sem/releases)
+- Master Build Status [![build](https://img.shields.io/github/actions/workflow/status/hlumhtetaung/sem/main.yml?branch=master&label=build&style=flat-square)](https://github.com/hlumhtetaung/sem/actions)
+- Develop Build Status [![build](https://img.shields.io/github/actions/workflow/status/hlumhtetaung/sem/main.yml?branch=develop&label=build&style=flat-square)](https://github.com/hlumhtetaung/sem/actions)
+- License [![license](https://img.shields.io/badge/license-Apache--2.0-brightgreen?style=flat-square)](https://github.com/hlumhtetaung/sem/blob/master/LICENSE)
+- Release [![release](https://img.shields.io/github/v/release/hlumhtetaung/sem?style=flat-square)](https://github.com/hlumhtetaung/sem/releases)
